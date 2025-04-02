@@ -1,0 +1,5 @@
+/workspaces/FILTRO-JAVA-TALERO-LUIS-CARVAJAL-NILSON/src/main/java/com/skeletonhexa/Main.java
+/workspaces/FILTRO-JAVA-TALERO-LUIS-CARVAJAL-NILSON/src/main/java/com/skeletonhexa/infrastructure/database/AppSingleton.java
+/workspaces/FILTRO-JAVA-TALERO-LUIS-CARVAJAL-NILSON/src/main/java/com/skeletonhexa/infrastructure/database/ConnMySql.java
+/workspaces/FILTRO-JAVA-TALERO-LUIS-CARVAJAL-NILSON/src/main/java/com/skeletonhexa/infrastructure/database/ConnectMysqlFactory.java
+/workspaces/FILTRO-JAVA-TALERO-LUIS-CARVAJAL-NILSON/src/main/java/com/skeletonhexa/infrastructure/database/ConnectionDb.java
